@@ -9,7 +9,6 @@ This repository provides an advanced **Quantitative Risk Report** focused on eva
 ## 📖 Extended Overview
 This project contains a comprehensive quantitative evaluation of a multi-asset portfolio during a high-volatility period (**August 2025 to November 2025**). The analysis integrates performance attribution and advanced risk modeling—such as **Backtesting VaR** and **Rolling Kurtosis**—to identify regime changes in market risk.
 
-[Image of a portfolio risk report dashboard with rolling volatility and drawdown charts]
 
 ### 🎯 Key Objectives of the Analysis
 * **Dynamic Risk Measurement:** Monitoring of 21-day Rolling Volatility and Rolling Kurtosis to detect "Volatility Clustering" and leptokurtic shifts (tail risk).
