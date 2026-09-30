@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **Legacy repository.** This project has been consolidated into [Risk-and-Portfolio-Engine](https://github.com/caballerohh/Risk-and-Portfolio-Engine), which contains the current portfolio-risk reporting workflow. This repository remains public only for version history and project traceability.
+> **Legacy repository — integrated into the Portfolio Risk Analytics area.** The code, report and analytical components from this project have been incorporated into [Risk-and-Portfolio-Engine](https://github.com/caballerohh/Risk-and-Portfolio-Engine), which contains the current portfolio-risk reporting workflow. This repository remains public only for version history and project traceability.
 
 # 📊 Automated-General-Report-for-Portfolio-Risk-Analysis
 
