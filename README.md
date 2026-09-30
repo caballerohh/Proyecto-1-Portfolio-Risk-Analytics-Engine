@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Legacy repository.** This project has been consolidated into [Risk-and-Portfolio-Engine](https://github.com/caballerohh/Risk-and-Portfolio-Engine), which contains the current portfolio-risk reporting workflow. This repository remains public only for version history and project traceability.
+
 # 📊 Automated-General-Report-for-Portfolio-Risk-Analysis
 
 Este repositorio proporciona un **Informe de Riesgo Cuantitativo** avanzado enfocado en evaluar la estabilidad y eficiencia de una cartera de inversión diversificada. El análisis utiliza métricas de riesgo de alta frecuencia y pruebas estadísticas para validar la resiliencia de la cartera frente a shocks de mercado y riesgo sistemático.
